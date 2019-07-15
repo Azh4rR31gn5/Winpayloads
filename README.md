@@ -2,7 +2,7 @@
 Undetectable Windows Payload Generation with extras Running on Python2.7
 
 ## As usual, Don't upload payloads to any online virus checkers  
-- Virus Total Detection - Updated 25/01/2019 - 16/68 Detections  
+- Virus Total Detection - Updated 25/07/2019 - 31/70 Detections  
 https://www.virustotal.com/#/file/a921ac7540c93bf03a8ed76158b445b5f8780d8f112405811ebbe820c0e3d5c3/detection
 
 ## For Fully Undetectable Payloads please use the stager functionality [Youtube Video](https://youtu.be/eRl5H5wHqKY)
