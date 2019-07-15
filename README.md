@@ -31,5 +31,4 @@ https://github.com/nccgroup/Winpayloads/wiki
 
 ![alt tag](https://raw.githubusercontent.com/Charliedean/charliedean.github.io/master/images/2016-02-16%2010_12_29-Kali2%20-%20VMware%20Workstation.png)
 
-# Video and Information on Blog  (OUTDATED)
-https://charliedean.github.io  
+ # Visit Blog : https://charliedean.github.io  
